@@ -4,11 +4,11 @@
 
 **IJCAI 2025**
 
-**[Xinyu Li](xxx),
+**[Xinyu Li](https://scholar.google.com/citations?hl=zh-CN&user=haWm-DoAAAAJ),
 [Qi Yao](xxx),
 [Yuanda Wang](xxx)**
 
-**[[Project Page]](https://shenfu-research.github.io/Garment-Diffusion/))**, **[[Paper Link]](https://arxiv.org/abs/xxx)**
+**[[Project Page]](https://shenfu-research.github.io/Garment-Diffusion/)**, **[[Paper Link]](https://arxiv.org/abs/xxx)**
 
 </div>
 
