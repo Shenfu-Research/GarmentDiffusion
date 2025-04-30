@@ -5,7 +5,7 @@
 **IJCAI 2025**
 
 **[Xinyu Li](xxx),
-[Qi Yao](https://scholar.google.com/citations?hl=zh-CN&user=oqsQukoAAAAJ),
+[Qi Yao](xxx),
 [Yuanda Wang](xxx)**
 
 **[[Project Page]](https://xxx.github.io)**, **[[Paper Link]](https://arxiv.org/abs/xxx)**
