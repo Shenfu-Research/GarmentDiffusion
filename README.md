@@ -8,7 +8,7 @@
 [Qi Yao](xxx),
 [Yuanda Wang](xxx)**
 
-**[[Project Page]](https://shenfu-research.github.io/Garment-Diffusion/)**, **[[Paper Link]](https://arxiv.org/abs/xxx)**
+**[[Project Page]](https://shenfu-research.github.io/Garment-Diffusion/)**, **[[Paper Link]](https://arxiv.org/abs/2504.21476)**
 
 </div>
 
@@ -34,6 +34,6 @@ We especially thank the authors of ([[Garment-Pattern-Generator]](https://github
   title     = {GarmentDiffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers},
   booktitle = {Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI)},
   year      = {2025},
-  url       = {https://arxiv.org/abs/xxx}
+  url       = {https://arxiv.org/abs/2504.21476}
 }
 ```
