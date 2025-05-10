@@ -31,7 +31,7 @@
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
-            <h1 class="title is-1 publication-title">GarmentDiffusion: 3D Garment Pattern Generation with Multi-modal Diffusion Transformers</h1>
+            <h1 class="title is-1 publication-title">GarmentDiffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers</h1>
             <div class="is-size-5 publication-authors">
               <!-- Paper authors -->
               <span class="author-block">
@@ -116,16 +116,7 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            Garment sewing patterns are fundamental design elements that bridge the gap between garment design and practical manufacturing. 
-            The generative modeling of sewing patterns is crucial for creating diverse and innovative garment designs. 
-            However, existing approaches are limited either by reliance on a single input modality or by suboptimal generation efficiency. 
-            In this work, we present GarmentDiffusion, a new generative model capable of producing 
-            centimeter-precise, vectorized 3D sewing patterns from multi-modal inputs (text, image, and incomplete sewing pattern).
-            Our method efficiently encodes 3D sewing pattern parameters into compact edge token representations, 
-            achieving a sequence length 10× shorter than that of the previous autoregressive modeling approach, i.e., DressCode.
-            By employing a diffusion transformer, we simultaneously denoise all edge tokens along the temporal axis, 
-            while maintaining a constant number of denoising steps regardless of dataset-specific edge and panel statistics.
-            We achieve new state-of-the-art results on the largest parametric sewing pattern dataset, namely GarmentCodeData.
+            Garment sewing patterns are fundamental design elements that bridge the gap between design concepts and practical manufacturing. The generative modeling of sewing patterns is crucial for creating diversified garments. However, existing approaches are limited either by reliance on a single input modality or by suboptimal generation efficiency. In this work, we present GarmentDiffusion, a new generative model capable of producing centimeter-precise, vectorized 3D sewing patterns from multimodal inputs (text, image, and incomplete sewing pattern). Our method efficiently encodes 3D sewing pattern parameters into compact edge token representations, achieving a sequence length that is 10 times shorter than that of the autoregressive SewingGPT in DressCode. By employing a diffusion transformer, we simultaneously denoise all edge tokens along the temporal axis, while maintaining a constant number of denoising steps regardless of dataset-specific edge and panel statistics. With all combination of designs of our model, the sewing pattern generation speed is accelerated by 100 times compared to SewingGPT. We achieve new state-of-the-art results on DressCodeData, as well as on the largest sewing pattern dataset, namely GarmentCodeData.
           </p>
         </div>
       </div>
