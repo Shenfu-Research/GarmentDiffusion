@@ -8,7 +8,7 @@
 [Qi Yao](xxx),
 [Yuanda Wang](xxx)**
 
-**[[Project Page]](https://shenfu-research.github.io/Garment-Diffusion/)**, **[[Paper Link]](https://arxiv.org/abs/2504.21476)**
+**[[Project Page]](https://shenfu-research.github.io/GarmentDiffusion/)**, **[[Paper Link]](https://arxiv.org/abs/2504.21476)**
 
 </div>
 
