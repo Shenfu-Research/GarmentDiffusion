@@ -29,13 +29,18 @@ We especially thank the authors of ([[Garment-Pattern-Generator]](https://github
 
 ## Citation
 ```
-@misc{li2025garmentdiffusion3dgarmentsewing,
-        title={GarmentDiffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers}, 
-        author={Xinyu Li and Qi Yao and Yuanda Wang},
-        year={2025},
-        eprint={2504.21476},
-        archivePrefix={arXiv},
-        primaryClass={cs.CV},
-        url={https://arxiv.org/abs/2504.21476}, 
-  }
+@inproceedings{ijcai2025p163,
+  title     = {GarmentDiffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers},
+  author    = {Li, Xinyu and Yao, Qi and Wang, Yuanda},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI-25}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {James Kwok},
+  pages     = {1458--1466},
+  year      = {2025},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2025/163},
+  url       = {https://doi.org/10.24963/ijcai.2025/163},
+}
 ```
