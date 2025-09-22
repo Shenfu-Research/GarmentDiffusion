@@ -1,6 +1,6 @@
 <div align="center">
 
-# Garment-Diffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers
+# GarmentDiffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers
 
 **IJCAI 2025**
 
